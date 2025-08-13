@@ -29,9 +29,13 @@ For anyone in the security industry, these findings speak for themselves. These 
 | GUM-01-012 WP1  | Low      | Potential XSS via Arbitrary HTML Upload to `files.gum`                 |
 
 
-You can find all the vulnerabilities it reported here: https://github.com/HacktronAI/hacktivity/issues?q=is%3Aissue%20state%3Aopen%20label%3Agumroad. The crazy part is the false positive rate is very low, since we have multiple filtering agents removing any hallucinations. You can watch the symbiosis of Hacktron and our co-founder @msrkp working together on bugs. Also, all of these tickets came straight from Hacktron’s create_finding tool.
+You can find all the vulnerabilities it reported here:  
+👉 [Issues](https://github.com/HacktronAI/hacktivity/issues?q=is%3Aissue%20state%3Aopen%20label%3Agumroad). 
+
+
+The crazy part is the false positive rate is very low, since we have multiple filtering agents removing any hallucinations. You can watch the symbiosis of Hacktron and our co-founder @msrkp working together on bugs. Also, all of these tickets came straight from Hacktron’s create_finding tool.
 
 
 ### Contact us
 
-If you want to secure your apps or be a design partner in building the future, reach out here: https://app.hacktron.ai/contact
+If you want to secure your apps and get an audit or be a design partner in building the future, reach out here: https://app.hacktron.ai/contact
