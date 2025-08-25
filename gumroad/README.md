@@ -2,7 +2,7 @@
 
 Gumroad was the very first audit we did at Hacktron — and the results blew us away.
 
-We ran it using Gemini 2.5 Pro, backed by our swarm of hundreds of specialized agents — some pure LLM-based, some AST-based, some CodeQL-based, and others built for niche vulnerability classes, including many cutting-edge source code review agents, each laser-focused on a different weakness.
+We ran it using Gemini 2.5 Pro, backed by our swarm of hundreds of specialized agents — some pure LLM-based, some AST-based, and others built for niche vulnerability classes, including many cutting-edge source code review agents, each laser-focused on a different weakness.
 
 You can view the full pentest report here —— and we're proud to be the first to publicly release an AI-driven security audit on a live production system:
 
